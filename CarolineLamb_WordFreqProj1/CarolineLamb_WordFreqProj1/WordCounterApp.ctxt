@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=WordCounterApp
+comment0.text=\r\n\ \ Lab\ 2\:\ Reading\ from\ a\ File<br>\r\n\r\n\ \ The\ WordCounterApp\ class\ provides\ a\ main\ method\r\n\ \ for\ a\ program\ that\ analyzes\ text.\r\n\r\n\ \ This\ program\ reads\ and\ analyzes\ text\ from\ the\ books\ "Alice\ in\ Wonderland",\r\n\ \ "A\ Mischievous\ Type",\ and\ "Dark\ Destiny".\ It\ counts\ the\ number\ of\ lines,\ \r\n\ \ number\ of\ words\ in\ a\ line,\ number\ of\ characters\ in\ a\ word,\ and\ most\ frequent\r\n\ \ words\ along\ with\ their\ frequency.\r\n\r\n\ \ @author\ Caroline\ Lamb\r\n\ \ @author\ [your\ partner's\ name]\r\n\ \ @author\ with\ assistance\ from\ Nikola\ Bogoevich,\ Dr.\ Cutter,\ and\ Dr.\ Brady\r\n\ \ @author\ [working\ side-by-side\ with\ ...]\r\n\ \ @version\ 7/21/2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ The\ main\ function\ initiates\ execution\ of\ this\ program.\r\n\ \ \ \ @param\ \ \ \ String[]\ args\ not\ used\ in\ this\ program\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ (but\ main\ methods\ always\ need\ this\ parameter)\r\n
+numComments=2
