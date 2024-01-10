@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NewWordCounterApp
+comment0.text=\r\n\ \ Lab\ 5\:\ Refactoring\ the\ Textual\ Analysis\ Project\r\n\r\n\ \ The\ NewWordCounterApp\ provides\ a\ new\ main\ method\ to\ execute\ the\ textual\r\n\ \ analysis\ functions\ from\ the\ WordCounterApp.\r\n\r\n\ \ The\ program\ analyzes\ text\ from\ "AliceInWonderland.txt",\ \r\n\ \ "TheMischievousTypesetter.txt",\ and\ "DarkDestiny.txt".\r\n\r\n\ \ @author\ Caroline\ Lamb\r\n\ \ @author\ [your\ partner's\ name]\r\n\ \ @author\ [with\ assistance\ from\ ...\ (including\ instructor/TAs)]\r\n\ \ @author\ [working\ side-by-side\ with\ ...]\r\n\ \ @version\ 7/24/2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ The\ main\ function\ initiates\ execution\ of\ this\ program.\r\n\ \ \ \ @param\ \ \ \ String[]\ args\ not\ used\ in\ this\ program\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ (but\ main\ methods\ always\ need\ this\ parameter)\r\n
+numComments=2
